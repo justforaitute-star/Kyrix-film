@@ -1,0 +1,6 @@
+{
+  "name": "KYRIX — Product Launch Film",
+  "description": "Cinematic 16:9 product launch video introducing KYRIX, a customizable real-time AI desktop agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
